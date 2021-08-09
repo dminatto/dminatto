@@ -11,8 +11,6 @@ I believe the main objective of a software developer is making people's lives be
 
 I believe in power of women in technology, community power and potential to build|code|deploy the future of technology. 
 
-Nowadays I work as tech lead of a software developers team in a telecom company.
-
 I'm currently improving my English and deciding which language to learn next. 
 
 
