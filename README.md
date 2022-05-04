@@ -1,5 +1,5 @@
 
-![https://www.linkedin.com/in/daniele-minatto/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-minatto/)
 
 ### Hi there 👋
 
@@ -8,7 +8,7 @@ Of course I had no idea of what I was doing but I have interest and love for com
 
 Currently the areas I am most involved are web development, artificial intelligence and cybersecurity.
 
-Technically, I've worked with several languages and platforms, such as: C++, ASP, VB6, .Net(C# e VB.NET), .Net Core, Entity Framework/Core, PHP (5.*, 7.*, frameworks: Slim, Twig, Eloquent and Laravel), AngularJS, Vue, Javascript, NodeJS, PowerBuilder, JWT, PostgreSQL, SQL Server, MySQL, CSS Processors, Web Analytics, Search Engines, Tasks Runners, HTML5 and others.
+Technically, I've worked with several languages and platforms, such as: C++, ASP, VB6, .Net(C# e VB.NET), .Net Core, Entity Framework/Core, PHP (5.*, 7.*, frameworks: Slim, Twig, Eloquent and Laravel), AngularJS, Vue, Javascript, NodeJS, NestJS, Typescript, GraphQL, PowerBuilder, JWT, PostgreSQL, SQL Server, MySQL, CSS Processors, Web Analytics, Search Engines, Tasks Runners, HTML5 and others.
 
 I believe the main objective of a software developer is making people's lives better and what really makes me feel safistied with my work is delivering solutions to people. 
 
