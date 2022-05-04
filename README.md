@@ -1,3 +1,6 @@
+
+![https://www.linkedin.com/in/daniele-minatto/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+
 ### Hi there 👋
 
 I’m Dani and I’m a  ~problem solver~ professional software developer since 2013 but my first lines of code happened around ~2009. 
